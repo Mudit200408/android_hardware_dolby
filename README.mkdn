@@ -1,0 +1,21 @@
+Dax Dolby
+==============
+
+Why not make the Dolby Atmos implementation easier rather than kanging 69 commits...
+
+### Warning ###
+This implementation has only been tested on Poco F4/Munch
+
+### Getting Started ###
+---------------
+You have to pick this commit in your device tree 
+
+https://github.com/Mudit200408/device_xiaomi_sm8250-common/commit/d9f033aa13570a9f3934dceabb394f1f6180bf75
+
+# JAI SHREE RAM #
+
+# Credits:
+ * [**HELLBOY07**](https://github.com/HELLBOY017)
+ * [**johnmart19**](https://github.com/johnmart19)
+ * [**reiryuki**](https://github.com/reiryuki)
+ * [**gotenksIN**](https://github.com/gotenksIN)
