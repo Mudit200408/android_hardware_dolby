@@ -20,7 +20,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # SEPolicy
 BOARD_VENDOR_SEPOLICY_DIRS += hardware/dolby/sepolicy/vendor
-SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += hardware/dolby/sepolicy/dolby/private
+#SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += hardware/dolby/sepolicy/dolby/private
 
 # Dolby Props
 PRODUCT_VENDOR_PROPERTIES += \
